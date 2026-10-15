@@ -34,10 +34,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-snake-contrib/github-contribution-grid-snake.svg?v=38626544205-1" />
+      srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-snake-contrib/github-contribution-grid-snake.svg?v=38794505546-1" />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg?v=38626544205-1" />
-    <img alt="a81n9 contribution snake" src="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-snake-contrib/github-contribution-grid-snake.svg?v=38626544205-1" />
+      srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg?v=38794505546-1" />
+    <img alt="a81n9 contribution snake" src="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-snake-contrib/github-contribution-grid-snake.svg?v=38794505546-1" />
   </picture>
 </p>
